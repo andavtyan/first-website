@@ -2,8 +2,3 @@
 .Rhistory
 .RData
 .Ruserdata
-
-/.quarto/
-
-*Rproj
-/_site
